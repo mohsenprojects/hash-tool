@@ -1,7 +1,8 @@
 # hash-tool
 a tool for use hash algorithms
 # commands:
--v for verify\n
+-v for verify
+
 -s for hash of string
 -f for hash of file
 For strings: python _hash_tool_src.py -s <string> <hash_type> [-v expected_hash]
