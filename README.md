@@ -19,3 +19,29 @@ output : SHA256 of string: b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f
 python _hash_tool_src.py -s "hello world" sha256 -v b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9
 
 output : Verification: SUCCESS
+
+# hashs:
+
+md5
+
+sha1
+
+sha224
+
+sha256
+
+sha384
+
+sha512
+
+sha3_224
+
+sha3_256
+
+sha3_384
+
+sha3_512
+
+blake2b
+
+blake2s
